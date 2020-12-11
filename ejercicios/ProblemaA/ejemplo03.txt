@@ -20,7 +20,7 @@
 19. suma <-- 0
 20. Mientras indice < 3 entonces
 21.   suma <-- suma + notasCiencias[indice]
-22.   indice <-- indice + 1
+22. indice <-- indice + 1
 23. Fin Mientras
 24. promedio[1] <-- suma/3
 25. Fin
